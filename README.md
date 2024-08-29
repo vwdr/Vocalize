@@ -2,7 +2,6 @@
 
 **Vocalize** is a command-line tool developed in Go, harnessing the power of OpenAI's Text-to-Speech (TTS) model to convert written text into high-quality spoken audio. Designed for developers and power users, Vocalize provides an interactive and efficient way to generate and play back voiceovers in MP3 format. This README provides an in-depth look at the technologies used, the development process, and detailed instructions for installation and usage.
 
-![Vocalize Mascot](https://example.com/vocalize-mascot.png)  
 
 ## Technologies and Rationale
 
